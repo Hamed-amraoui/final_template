@@ -1,0 +1,1235 @@
+[{
+  "_id": {
+    "$oid": "645e4faca0a6e5d231ccf655"
+  },
+  "name": "Node.js Introduction",
+  "slug": "node.js-introductiond",
+  "description": "ddddddd",
+  "price": 104,
+  "image": {
+    "ETag": "\"334e8d0b3fea42c601c1657f38dce2d7\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/a1Q740DOcyHNQ2Qp1BafK.jpeg",
+    "key": "course/courseImage/a1Q740DOcyHNQ2Qp1BafK.jpeg",
+    "Key": "course/courseImage/a1Q740DOcyHNQ2Qp1BafK.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Development",
+  "published": true,
+  "paid": false,
+  "instructor": {
+    "$oid": "6443c78611ae43dcf91f2996"
+  },
+  "lessons": [
+    {
+      "title": "react",
+      "slug": "react",
+      "content": "hello",
+      "video": {
+        "key": "course/courseVideo/QWV1kjNaRAz_Uq7CVQe_S.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/QWV1kjNaRAz_Uq7CVQe_S.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "645e7f47cd62a241350c1aa6"
+      },
+      "createdAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      }
+    },
+    {
+      "title": "Helo",
+      "slug": "helo",
+      "content": "test",
+      "video": {
+        "key": "course/courseVideo/ZE005HBaWjVDRupIsd6_T.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/ZE005HBaWjVDRupIsd6_T.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "645e7f67cd62a241350c1ab2"
+      },
+      "createdAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      }
+    },
+    {
+      "title": "mern",
+      "slug": "mern",
+      "content": "test",
+      "free_preview": false,
+      "_id": {
+        "$oid": "64620d978a447dcf9971ee88"
+      },
+      "createdAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      }
+    },
+    {
+      "title": "Nodes",
+      "slug": "node",
+      "content": "ffff",
+      "video": {
+        "key": "course/courseVideo/A6Zu5i8oFtdRkHJhSM0hD.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/A6Zu5i8oFtdRkHJhSM0hD.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "645e50760c822f8735b59f7e"
+      },
+      "createdAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      }
+    },
+    {
+      "title": "testtt",
+      "slug": "testtt",
+      "content": "ddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "64620da48a447dcf9971ee98"
+      },
+      "createdAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-15T11:15:15.081Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-12T14:39:40.749Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T11:33:28.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645eaf1dea999fb940bba73c"
+  },
+  "name": "Introduction in Next.js",
+  "slug": "introduction-in-next.js",
+  "description": "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.",
+  "price": 300,
+  "image": {
+    "ETag": "\"354d2daa30b19288b9bdc38d4f7c1df9\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/rktvfZGP8i1G6y6wXfcvB.jpeg",
+    "key": "course/courseImage/rktvfZGP8i1G6y6wXfcvB.jpeg",
+    "Key": "course/courseImage/rktvfZGP8i1G6y6wXfcvB.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Web Development",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [
+    {
+      "title": "What is Nextjs",
+      "slug": "what-is-nextjs",
+      "content": "hello",
+      "video": {
+        "key": "course/courseVideo/QDEWxOCw0KFIHS-F164Hl.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/QDEWxOCw0KFIHS-F164Hl.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "645eb0e9ea999fb940bba789"
+      },
+      "createdAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      }
+    },
+    {
+      "title": "Server Side Rendering",
+      "slug": "server-side-rendering",
+      "content": "server",
+      "video": {
+        "key": "course/courseVideo/g9KMDV-L_y25bhg9Kgn6S.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/g9KMDV-L_y25bhg9Kgn6S.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "645eb10eea999fb940bba793"
+      },
+      "createdAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      }
+    },
+    {
+      "title": "Client Side Rendering",
+      "slug": "client-side-rendering",
+      "content": "client",
+      "video": {
+        "key": "course/courseVideo/KKf4QKPsWmW1iBSrgSCnx.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/KKf4QKPsWmW1iBSrgSCnx.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "645eb124ea999fb940bba79f"
+      },
+      "createdAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      }
+    },
+    {
+      "title": "nextjs backend",
+      "slug": "nextjs-backend",
+      "content": "ddddddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "64621a4ea80f787cafd1c54d"
+      },
+      "createdAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      }
+    },
+    {
+      "title": "what is nextjs server",
+      "slug": "what-is-nextjs-server",
+      "content": "sssss",
+      "free_preview": false,
+      "_id": {
+        "$oid": "64621a66a80f787cafd1c55d"
+      },
+      "createdAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-17T22:02:23.492Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-12T21:26:53.121Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-20T11:33:26.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646ce337109114742a085a58"
+  },
+  "name": "React.js",
+  "slug": "react.js",
+  "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+  "price": 1000,
+  "image": {
+    "ETag": "\"23594372931cb80d17850d35fa6dcd4e\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/9hEcjAPDtIwwM-_E35Km7.jpeg",
+    "key": "course/courseImage/9hEcjAPDtIwwM-_E35Km7.jpeg",
+    "Key": "course/courseImage/9hEcjAPDtIwwM-_E35Km7.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Development",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "641cfe89e3dd151d9f639e04"
+  },
+  "lessons": [
+    {
+      "title": "intro in reactjs",
+      "slug": "intro-in-reactjs",
+      "content": "ddd",
+      "video": {
+        "key": "course/courseVideo/TWrCAgguI_U09PjCtrWnV.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/TWrCAgguI_U09PjCtrWnV.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "646ce374109114742a085a6b"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      }
+    },
+    {
+      "title": "react",
+      "slug": "react",
+      "content": "ddddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646ce388109114742a085a75"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      }
+    },
+    {
+      "title": "React web",
+      "slug": "react-web",
+      "content": "ddddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646ce39b109114742a085a81"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      }
+    },
+    {
+      "title": "client side",
+      "slug": "client-side",
+      "content": "ddddddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646ce3ba109114742a085a9f"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      }
+    },
+    {
+      "title": "install node",
+      "slug": "install-node",
+      "content": "dddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646ce3ab109114742a085a8f"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      }
+    },
+    {
+      "title": "node",
+      "slug": "node",
+      "content": "jjjjjj",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e2a312b635ae6b807d22e"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T15:35:13.559Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-23T16:00:55.543Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T15:35:13.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e2f372b635ae6b807d440"
+  },
+  "name": "Django",
+  "slug": "django",
+  "description": "Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit.",
+  "price": 500,
+  "image": {
+    "ETag": "\"3158218b686a156e7e8af281e68556e7\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/u4h5gFSg5JDHpWrTb2jOx.jpeg",
+    "key": "course/courseImage/u4h5gFSg5JDHpWrTb2jOx.jpeg",
+    "Key": "course/courseImage/u4h5gFSg5JDHpWrTb2jOx.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Backend Development",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [
+    {
+      "title": "Welcome to django",
+      "slug": "welcome-to-django",
+      "content": "Hello",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4c9a2b635ae6b807d52d"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:42:50.584Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:42:50.584Z"
+      }
+    },
+    {
+      "title": "Django backend",
+      "slug": "django-backend",
+      "content": "Hello",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4cb32b635ae6b807d537"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:43:15.818Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:43:15.818Z"
+      }
+    },
+    {
+      "title": "setup",
+      "slug": "setup",
+      "content": "test",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4ccb2b635ae6b807d543"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:43:39.026Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:43:39.026Z"
+      }
+    },
+    {
+      "title": "setup database",
+      "slug": "setup-database",
+      "content": "hey",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4cdf2b635ae6b807d551"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:43:59.849Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:43:59.849Z"
+      }
+    },
+    {
+      "title": "Hello",
+      "slug": "hello",
+      "content": "hello",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4ced2b635ae6b807d561"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:44:13.553Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:44:13.553Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-24T15:37:27.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T17:44:30.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e30b82b635ae6b807d468"
+  },
+  "name": "Python",
+  "slug": "python",
+  "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation via the off-side rule. Python is dynamically typed and garbage-collected.",
+  "price": 199,
+  "image": {
+    "ETag": "\"ccf63b36fb6438c338d6a1ea0c55c38c\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/KSA5o4AaP0eOD2L74qjwK.jpeg",
+    "key": "course/courseImage/KSA5o4AaP0eOD2L74qjwK.jpeg",
+    "Key": "course/courseImage/KSA5o4AaP0eOD2L74qjwK.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Development",
+  "published": false,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [],
+  "createdAt": {
+    "$date": "2023-05-24T15:43:52.068Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T15:43:52.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e31082b635ae6b807d47e"
+  },
+  "name": "Laravel",
+  "slug": "laravel",
+  "description": "Laravel is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony.",
+  "price": null,
+  "image": {
+    "ETag": "\"6c551ac82f3a19762161e0325b502f39\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/JZKla7EgdoRGBbz6oKKdt.jpeg",
+    "key": "course/courseImage/JZKla7EgdoRGBbz6oKKdt.jpeg",
+    "Key": "course/courseImage/JZKla7EgdoRGBbz6oKKdt.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Development",
+  "published": false,
+  "paid": false,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [],
+  "createdAt": {
+    "$date": "2023-05-24T15:45:12.059Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T15:45:12.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e313c2b635ae6b807d494"
+  },
+  "name": "Java",
+  "slug": "java",
+  "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+  "price": 249,
+  "image": {
+    "ETag": "\"2cb9a8b8d816514cda035105bb626d1d\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/7u4zr_zj5LYO9YAykZLBL.jpeg",
+    "key": "course/courseImage/7u4zr_zj5LYO9YAykZLBL.jpeg",
+    "Key": "course/courseImage/7u4zr_zj5LYO9YAykZLBL.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Development",
+  "published": false,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [],
+  "createdAt": {
+    "$date": "2023-05-24T15:46:04.186Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T15:46:04.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e31ad2b635ae6b807d4aa"
+  },
+  "name": "Spring Frameword",
+  "slug": "spring-frameword",
+  "description": "The Spring Framework is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform.",
+  "price": 499,
+  "image": {
+    "ETag": "\"f85f0095695d5a7fe3f5e9163ccf2d15\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/K9Cwic7oQ4OmuBxZAm530.jpeg",
+    "key": "course/courseImage/K9Cwic7oQ4OmuBxZAm530.jpeg",
+    "Key": "course/courseImage/K9Cwic7oQ4OmuBxZAm530.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Backend Development",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [
+    {
+      "title": "Java",
+      "slug": "java",
+      "content": "test",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4da52b635ae6b807d657"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:47:17.092Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:47:17.092Z"
+      }
+    },
+    {
+      "title": "install java",
+      "slug": "install-java",
+      "content": "java",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4db52b635ae6b807d661"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:47:33.140Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:47:33.140Z"
+      }
+    },
+    {
+      "title": "install spring",
+      "slug": "install-spring",
+      "content": "spring",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4dd02b635ae6b807d66d"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:48:00.671Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:48:00.671Z"
+      }
+    },
+    {
+      "title": "system.out.println(\"Hello world\");",
+      "slug": "system.out.println(\"hello-world\")",
+      "content": "test",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4e152b635ae6b807d67b"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:49:09.988Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:49:09.988Z"
+      }
+    },
+    {
+      "title": "Hello",
+      "slug": "hello",
+      "content": "hey",
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4e282b635ae6b807d68b"
+      },
+      "createdAt": {
+        "$date": "2023-05-24T17:49:28.227Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-24T17:49:28.227Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-24T15:47:57.652Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T17:49:36.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e32872b635ae6b807d4c0"
+  },
+  "name": "Angular",
+  "slug": "angular",
+  "description": "Angular is a TypeScript-based, free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+  "price": 769,
+  "image": {
+    "ETag": "\"d614e4016a8ec8c7261472f66269e56a\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/DeDuoRx455UA_Mep5jEP-.jpeg",
+    "key": "course/courseImage/DeDuoRx455UA_Mep5jEP-.jpeg",
+    "Key": "course/courseImage/DeDuoRx455UA_Mep5jEP-.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Frontend Development",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [
+    {
+      "title": "Welcome to angular",
+      "slug": "welcome-to-angular",
+      "content": "hello",
+      "video": {
+        "key": "course/courseVideo/bBIRzUdyBFiIpjLPbRa-g.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/bBIRzUdyBFiIpjLPbRa-g.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "6473bc0d63db1634e76b0594"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T20:39:41.099Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T20:39:41.099Z"
+      }
+    },
+    {
+      "title": "Angular setup",
+      "slug": "angular-setup",
+      "content": "dddddddddddd",
+      "video": {
+        "key": "course/courseVideo/fVwiwxjrax_TRb3obSDf4.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/fVwiwxjrax_TRb3obSDf4.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "6473bc1f63db1634e76b059a"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T20:39:59.217Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T20:39:59.217Z"
+      }
+    },
+    {
+      "title": "Angular introduction",
+      "slug": "angular-introduction",
+      "content": "heeelllooo",
+      "video": {
+        "key": "course/courseVideo/VbULtgUEh2hw9LEBDWNJO.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/VbULtgUEh2hw9LEBDWNJO.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "6473bc3863db1634e76b05a2"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T20:40:24.348Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T20:40:24.348Z"
+      }
+    },
+    {
+      "title": "frontend",
+      "slug": "frontend",
+      "content": "dddddddd",
+      "video": {
+        "key": "course/courseVideo/lagM2mHVF5pjGVYoOooSr.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/lagM2mHVF5pjGVYoOooSr.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "6473bc5663db1634e76b05ac"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T20:40:54.673Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T20:40:54.673Z"
+      }
+    },
+    {
+      "title": "ffff",
+      "slug": "ffff",
+      "content": "ffffffff",
+      "video": {
+        "key": "course/courseVideo/aZFq3oHizoHdaKPbrJd5r.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/aZFq3oHizoHdaKPbrJd5r.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "6473bc6363db1634e76b05b8"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T20:41:07.014Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T20:41:07.014Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-24T15:51:35.376Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T20:41:51.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e4bda2b635ae6b807d4e8"
+  },
+  "name": "Amazon AWS",
+  "slug": "amazon-aws",
+  "description": "Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis. Oftentimes, clients will use this in combination with autoscaling.",
+  "price": null,
+  "image": {
+    "ETag": "\"05629b78afb4e864b75bf95b69a8efce\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/2mEP5l-N4EU0nH9BlBeCe.jpeg",
+    "key": "course/courseImage/2mEP5l-N4EU0nH9BlBeCe.jpeg",
+    "Key": "course/courseImage/2mEP5l-N4EU0nH9BlBeCe.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Web Services",
+  "published": false,
+  "paid": false,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [],
+  "createdAt": {
+    "$date": "2023-05-24T17:39:38.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T17:39:38.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e4c292b635ae6b807d4fe"
+  },
+  "name": "MongoDB",
+  "slug": "mongodb",
+  "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.",
+  "price": 450,
+  "image": {
+    "ETag": "\"814d042a4bbe2d831ec21949a0b95f86\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/0U72UHZhRr13qc1m7IpYW.jpeg",
+    "key": "course/courseImage/0U72UHZhRr13qc1m7IpYW.jpeg",
+    "Key": "course/courseImage/0U72UHZhRr13qc1m7IpYW.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Database",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [
+    {
+      "title": "MongoDB",
+      "slug": "mongodb",
+      "content": "TEST",
+      "free_preview": false,
+      "_id": {
+        "$oid": "647273ab8566f12871753a2d"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T21:18:35.610Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T21:18:35.610Z"
+      }
+    },
+    {
+      "title": "Mongoose",
+      "slug": "mongoose",
+      "content": "test",
+      "free_preview": false,
+      "_id": {
+        "$oid": "64727fa7a3e1b1a4c2df0dc2"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T22:09:43.144Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T22:09:43.144Z"
+      }
+    },
+    {
+      "title": "Hello",
+      "slug": "hello",
+      "content": "test\n",
+      "free_preview": false,
+      "_id": {
+        "$oid": "64727fc3a3e1b1a4c2df0dcd"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T22:10:11.927Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T22:10:11.927Z"
+      }
+    },
+    {
+      "title": "Heyyy",
+      "slug": "heyyy",
+      "content": "ddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "6472801ba3e1b1a4c2df0e06"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T22:11:39.306Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T22:11:39.306Z"
+      }
+    },
+    {
+      "title": "Mongodb intro",
+      "slug": "mongodb-intro",
+      "content": "ddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "64728041a3e1b1a4c2df0e15"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T22:12:17.960Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T22:12:17.960Z"
+      }
+    },
+    {
+      "title": "mongo",
+      "slug": "mongo",
+      "content": "ddddddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "6472807aa3e1b1a4c2df0e23"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T22:13:14.822Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T22:13:14.822Z"
+      }
+    },
+    {
+      "title": "Hamed",
+      "slug": "hamed",
+      "content": "dddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "6472809da3e1b1a4c2df0e41"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T22:13:49.085Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T22:13:49.085Z"
+      }
+    },
+    {
+      "title": "test",
+      "slug": "test",
+      "content": "ddd",
+      "free_preview": false,
+      "_id": {
+        "$oid": "647280ada3e1b1a4c2df0e53"
+      },
+      "createdAt": {
+        "$date": "2023-05-27T22:14:05.124Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-27T22:14:05.124Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-24T17:40:57.840Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-27T22:21:05.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e4c722b635ae6b807d514"
+  },
+  "name": "JavaScript",
+  "slug": "javascript",
+  "description": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+  "price": 250,
+  "image": {
+    "ETag": "\"ff3bd318efe3a9b751b771204e047486\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/7RdeyymDeF_rcc2TeOv1u.jpeg",
+    "key": "course/courseImage/7RdeyymDeF_rcc2TeOv1u.jpeg",
+    "Key": "course/courseImage/7RdeyymDeF_rcc2TeOv1u.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  },
+  "category": "Web Development",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [
+    {
+      "title": "Get Started with JavaScript",
+      "slug": "welcome-to-javascript",
+      "content": "Get Started with JavaScript ",
+      "video": {
+        "key": "course/courseVideo/UaLfoQb69UwgSyXlfIJxg.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/UaLfoQb69UwgSyXlfIJxg.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4d2c2b635ae6b807d5d9"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      }
+    },
+    {
+      "title": "What is JavaScript used for",
+      "slug": "install",
+      "content": "What is JavaScript used for ",
+      "video": {
+        "key": "course/courseVideo/U-0yeXgY_8GXu_5B3wi2J.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/U-0yeXgY_8GXu_5B3wi2J.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4d582b635ae6b807d5ef"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      }
+    },
+    {
+      "title": "Run JavaScript in The Browser Console",
+      "slug": "console.log(\"hello-world\")",
+      "content": "Run JavaScript in The Browser Console ",
+      "video": {
+        "key": "course/courseVideo/8gmHmaGPqHFk6oSWScRE8.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/8gmHmaGPqHFk6oSWScRE8.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4d492b635ae6b807d5e3"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      }
+    },
+    {
+      "title": "Run JavaScript with HTML",
+      "slug": "hello-js",
+      "content": "Run JavaScript with HTML ",
+      "video": {
+        "key": "course/courseVideo/oCnJpbELSRz6nDdg_SMHp.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/oCnJpbELSRz6nDdg_SMHp.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e4d872b635ae6b807d60d"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T22:04:51.954Z"
+      }
+    },
+    {
+      "title": "Run JavaScript with Node.js",
+      "slug": "run-javascript-with-node.js",
+      "content": "Run JavaScript with Node.js ",
+      "video": {
+        "key": "course/courseVideo/ic35TupO06q1bMUKkpFlG.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/ic35TupO06q1bMUKkpFlG.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "6473d050236dc42ec09bf50f"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T22:06:08.138Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T22:06:08.138Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-24T17:42:10.567Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T22:06:08.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646e702e2b635ae6b807d8bc"
+  },
+  "name": "Postman",
+  "slug": "postma",
+  "description": "Postman is an API Platform for developers to design, build, test and iterate their APIs. As of February 2023, Postman reports having more than 25 million registered users and 75,000 open APIs, which it says constitutes the world's largest public API hub.",
+  "price": 258,
+  "category": "Services",
+  "published": true,
+  "paid": true,
+  "instructor": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "lessons": [
+    {
+      "title": "Hello postman",
+      "slug": "hello-postman",
+      "content": "ddddddd",
+      "video": {
+        "key": "course/courseVideo/RVgJOfLR4ItgHChArQSXN.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/RVgJOfLR4ItgHChArQSXN.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "64728215a3e1b1a4c2df0e97"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T13:50:25.618Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T13:50:25.618Z"
+      }
+    },
+    {
+      "title": "introduction in postman",
+      "slug": "introduction-in-postman",
+      "content": "test",
+      "video": {
+        "key": "course/courseVideo/rUvgmBk5Atv-9U-AcPS8n.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/rUvgmBk5Atv-9U-AcPS8n.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "646e70632b635ae6b807d8ec"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T13:50:25.618Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T13:50:25.618Z"
+      }
+    },
+    {
+      "title": "post",
+      "slug": "post",
+      "content": "hello",
+      "video": {
+        "key": "course/courseVideo/11Km1buPHBa9kOHljEyP3.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/11Km1buPHBa9kOHljEyP3.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "64735c49a3e1b1a4c2df17d5"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T13:51:05.376Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T13:51:05.376Z"
+      }
+    },
+    {
+      "title": "Testing",
+      "slug": "testing",
+      "content": "ddddd",
+      "video": {
+        "key": "course/courseVideo/bK5ec8jc_Wq61gsf4KGvM.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/bK5ec8jc_Wq61gsf4KGvM.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "64735c55a3e1b1a4c2df17df"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T13:51:17.474Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T13:51:17.474Z"
+      }
+    },
+    {
+      "title": "Holla",
+      "slug": "holla",
+      "content": "ddd",
+      "video": {
+        "key": "course/courseVideo/HpNCkGcl71gxkV651eMW9.mp4",
+        "url": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseVideo/HpNCkGcl71gxkV651eMW9.mp4"
+      },
+      "free_preview": false,
+      "_id": {
+        "$oid": "64735c62a3e1b1a4c2df17eb"
+      },
+      "createdAt": {
+        "$date": "2023-05-28T13:51:30.418Z"
+      },
+      "updatedAt": {
+        "$date": "2023-05-28T13:51:30.418Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-05-24T20:14:38.131Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T13:51:38.403Z"
+  },
+  "__v": 0,
+  "image": {
+    "ETag": "\"fc9aeb0bbecfba37437f1c4285c3ad6e\"",
+    "ServerSideEncryption": "AES256",
+    "Location": "https://e-learning-by-imedra.s3.eu-north-1.amazonaws.com/course/courseImage/QE-e1JtCC9ee9WiZ-kWP6.jpeg",
+    "key": "course/courseImage/QE-e1JtCC9ee9WiZ-kWP6.jpeg",
+    "Key": "course/courseImage/QE-e1JtCC9ee9WiZ-kWP6.jpeg",
+    "Bucket": "e-learning-by-imedra"
+  }
+}]
