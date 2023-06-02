@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "641cfe89e3dd151d9f639e04"
+  },
+  "name": "Hamed Amraoui",
+  "email": "hamedamraoui55@gmail.com",
+  "password": "$2b$12$mrSUE41BeSOnq2./McVng.KyTZo63xxuPYyh.6BoPSKN4YUD00NKG",
+  "picture": "/avatar.png",
+  "role": [
+    "Admin"
+  ],
+  "createdAt": {
+    "$date": "2023-03-24T01:36:09.186Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-17T17:06:55.967Z"
+  },
+  "__v": 0,
+  "passwordResetCode": "",
+  "stripe_account_id": "acct_1MsoAhQm7pOcp99p",
+  "stripe_seller": {
+    "id": "acct_1MsoAhQm7pOcp99p",
+    "object": "account",
+    "business_profile": {
+      "mcc": null,
+      "name": null,
+      "support_address": null,
+      "support_email": null,
+      "support_phone": null,
+      "support_url": null,
+      "url": "www.imedra.com"
+    },
+    "capabilities": {
+      "transfers": "active"
+    },
+    "charges_enabled": true,
+    "country": "GB",
+    "created": 1680531348,
+    "default_currency": "gbp",
+    "details_submitted": true,
+    "email": null,
+    "external_accounts": {
+      "object": "list",
+      "data": [
+        {
+          "id": "ba_1MsoLwQm7pOcp99ptHRaM3Rl",
+          "object": "bank_account",
+          "account": "acct_1MsoAhQm7pOcp99p",
+          "account_holder_name": null,
+          "account_holder_type": null,
+          "account_type": null,
+          "available_payout_methods": [
+            "standard"
+          ],
+          "bank_name": "STRIPE TEST BANK",
+          "country": "GB",
+          "currency": "gbp",
+          "default_for_currency": true,
+          "fingerprint": "y85MF1rda23tDyuz",
+          "future_requirements": {
+            "currently_due": [],
+            "errors": [],
+            "past_due": [],
+            "pending_verification": []
+          },
+          "last4": "2345",
+          "metadata": {},
+          "requirements": {
+            "currently_due": [],
+            "errors": [],
+            "past_due": [],
+            "pending_verification": []
+          },
+          "routing_number": "10-88-00",
+          "status": "new"
+        }
+      ],
+      "has_more": false,
+      "total_count": 1,
+      "url": "/v1/accounts/acct_1MsoAhQm7pOcp99p/external_accounts"
+    },
+    "future_requirements": {
+      "alternatives": [],
+      "current_deadline": null,
+      "currently_due": [],
+      "disabled_reason": null,
+      "errors": [],
+      "eventually_due": [],
+      "past_due": [],
+      "pending_verification": []
+    },
+    "login_links": {
+      "object": "list",
+      "data": [],
+      "has_more": false,
+      "total_count": 0,
+      "url": "/v1/accounts/acct_1MsoAhQm7pOcp99p/login_links"
+    },
+    "metadata": {},
+    "payouts_enabled": true,
+    "requirements": {
+      "alternatives": [],
+      "current_deadline": null,
+      "currently_due": [],
+      "disabled_reason": null,
+      "errors": [],
+      "eventually_due": [
+        "individual.verification.document"
+      ],
+      "past_due": [],
+      "pending_verification": []
+    },
+    "settings": {
+      "bacs_debit_payments": {},
+      "branding": {
+        "icon": null,
+        "logo": null,
+        "primary_color": null,
+        "secondary_color": null
+      },
+      "card_issuing": {
+        "tos_acceptance": {
+          "date": null,
+          "ip": null
+        }
+      },
+      "card_payments": {
+        "decline_on": {
+          "avs_failure": false,
+          "cvc_failure": false
+        },
+        "statement_descriptor_prefix": null,
+        "statement_descriptor_prefix_kana": null,
+        "statement_descriptor_prefix_kanji": null
+      },
+      "dashboard": {
+        "display_name": "Imedra",
+        "timezone": "Etc/UTC"
+      },
+      "payments": {
+        "statement_descriptor": "WWW.IMEDRA.COM",
+        "statement_descriptor_kana": null,
+        "statement_descriptor_kanji": null
+      },
+      "payouts": {
+        "debit_negative_balances": true,
+        "schedule": {
+          "delay_days": 7,
+          "interval": "daily"
+        },
+        "statement_descriptor": null
+      },
+      "sepa_debit_payments": {}
+    },
+    "tos_acceptance": {
+      "date": 1680532062
+    },
+    "type": "express"
+  }
+},
+{
+  "_id": {
+    "$oid": "641d010ae3dd151d9f639e0d"
+  },
+  "name": "hamed amraoui",
+  "email": "hamedamraoui555@gmail.com",
+  "password": "$2b$12$oIA7XruzpB1hfmAfV0g3DOizby8D9FYrsVWvPeD2eJiEkXGW85LLG",
+  "picture": "/avatar.png",
+  "role": [
+    "Student"
+  ],
+  "createdAt": {
+    "$date": "2023-03-24T01:46:50.743Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T01:46:50.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641d09d24420e0d0f6e7a15e"
+  },
+  "name": "hamed amraoui",
+  "email": "hamedamraoui8@gmail.com",
+  "password": "$2b$12$XtgoNZju59YxRnIRtl9fE.F1XSKFgneCdVfsu/9bKnjYSi8uC5nZ.",
+  "picture": "/avatar.png",
+  "role": [
+    "Student"
+  ],
+  "createdAt": {
+    "$date": "2023-03-24T02:24:18.133Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T02:24:18.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6443c78611ae43dcf91f2996"
+  },
+  "name": "Hamed Amraoui",
+  "email": "hamedamraoui552@gmail.com",
+  "password": "$2b$12$vT1LNYlY6d.NFhU/QqAa.e2bEhFck5QpYnsVkHyJhi/XL5dprTkC6",
+  "picture": "https://i.imgur.com/tJOSejv.png",
+  "role": [
+    "Admin"
+  ],
+  "createdAt": {
+    "$date": "2023-04-22T11:39:50.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-22T11:39:50.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64486385c8dd9d6d7a72d8b4"
+  },
+  "name": "IMedRa admin",
+  "email": "imedra@admin.tn",
+  "password": "$2b$12$z2XKBesSNtU0/CejQvwFNOXoRzkM5bLOAYzmqY7y7ijo8ON1neaNO",
+  "picture": "https://i.imgur.com/tJOSejv.png",
+  "role": [
+    "Admin"
+  ],
+  "createdAt": {
+    "$date": "2023-04-25T23:34:29.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T19:12:50.322Z"
+  },
+  "__v": 0,
+  "courses": [
+    {
+      "$oid": "645e4faca0a6e5d231ccf655"
+    },
+    {
+      "$oid": "646e4c722b635ae6b807d514"
+    }
+  ],
+  "stripeSession": {}
+},
+{
+  "_id": {
+    "$oid": "64500bcd02cc3482b63059ab"
+  },
+  "name": "Hamed Amraoui",
+  "email": "hamedamraoui000@gmail.com",
+  "password": "$2b$12$N8LlmS2qLmG78y8q1Zaz4OEk5lQhkNR/HFFWTjvcp4Kk3Be/ADDtG",
+  "picture": "https://i.imgur.com/tJOSejv.png",
+  "role": [
+    "Admin"
+  ],
+  "createdAt": {
+    "$date": "2023-05-01T18:58:21.248Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T18:58:21.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64500bf502cc3482b63059b2"
+  },
+  "name": "Hamed Amraoui",
+  "email": "hamedamraoui547@gmail.com",
+  "password": "$2b$12$KSLxr3JIY05v7cD1q7fyruIp4ELXzV0z7Ie27A6vaq6V1ITA7fYgO",
+  "picture": "https://i.imgur.com/tJOSejv.png",
+  "role": [
+    "Admin"
+  ],
+  "createdAt": {
+    "$date": "2023-05-01T18:59:01.504Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-01T18:59:01.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645f6be88a447dcf9971ecb3"
+  },
+  "name": "Asma Yaakoubi",
+  "email": "asmayaakoubi@gmail.com",
+  "password": "$2b$12$NMXeGtCGP2igqBVBg3NED.YkGqA/cnFQuclWM.dfpKFyPc65vtVgW",
+  "picture": "https://i.imgur.com/tJOSejv.png",
+  "role": [
+    "Student"
+  ],
+  "createdAt": {
+    "$date": "2023-05-13T10:52:24.135Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-24T13:53:50.946Z"
+  },
+  "__v": 0,
+  "passwordResetCode": "QV_JOW",
+  "stripeSession": {},
+  "courses": [
+    {
+      "$oid": "645eaf1dea999fb940bba73c"
+    },
+    {
+      "$oid": "646ce337109114742a085a58"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6468d1a4631a093b01337556"
+  },
+  "name": "Hamed Amraoui",
+  "email": "hamzahizi@gmail.com",
+  "password": "$2b$12$HmpJXdjDHR2/ctAr.JtQqOAAtyENxTlJh1upVN8/dnWjXcayqHNyi",
+  "picture": "https://i.imgur.com/tJOSejv.png",
+  "role": [
+    "Student"
+  ],
+  "createdAt": {
+    "$date": "2023-05-20T13:56:52.263Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T22:07:12.048Z"
+  },
+  "__v": 0,
+  "courses": [
+    {
+      "$oid": "646ce337109114742a085a58"
+    },
+    {
+      "$oid": "646e4c722b635ae6b807d514"
+    }
+  ],
+  "stripeSession": {}
+},
+{
+  "_id": {
+    "$oid": "646d05d4077489db1730c4af"
+  },
+  "name": "Mohamed Ali Amraoui",
+  "email": "mohamedali.amraoui@gmail.com",
+  "password": "$2b$12$T9nExFShijj3jSmX6L0VGuJtL8uz1hPGVpxLtEe.gMfZG16LVnhia",
+  "picture": "https://i.imgur.com/tJOSejv.png",
+  "role": [
+    "Student"
+  ],
+  "courses": [],
+  "createdAt": {
+    "$date": "2023-05-23T18:28:36.750Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-23T18:28:36.750Z"
+  },
+  "__v": 0
+}]
